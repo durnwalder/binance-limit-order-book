@@ -1,4 +1,4 @@
-# Limit Order Book Bitcoin/USD Binance
+# Plotly Live Binance Order Book Dashboard
 
 Playing around with Dash to display a live order book for Binance. This simple web application retrieves real-time data from the Binance API and shows:
 
