@@ -7,7 +7,7 @@ platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
-run = "python main.py"
+binance = "python main.py"
 [dependencies]
 requests = ">=2.32.3,<3"
 websockets = ">=15.0,<16"
