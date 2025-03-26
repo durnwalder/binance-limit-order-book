@@ -5,7 +5,7 @@ Playing around with Dash to display a live order book for Binance. This simple w
 1. **Order Book Histogram:** Histogram of bids and asks.
 2. **Mid-Price Chart:** The evolution of the BTC/USD mid-price over the last three minutes.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Requirements
 
